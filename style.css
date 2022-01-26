@@ -1,0 +1,9 @@
+li.red{
+    list-style-type: circle;
+}
+li.roma{
+    list-style-type: upper-roman;
+}
+li.alpha{
+    list-style-type:lower-alpha;
+}
